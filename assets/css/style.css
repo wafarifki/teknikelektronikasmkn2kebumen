@@ -15743,7 +15743,7 @@ span.transparent-button:hover i {
 @media only screen and (max-width: 767px) {
   .rbt-card .rbt-card-body .rbt-card-text {
     margin-bottom: 10px;
-    white-space: nowrap;
+    white-space: normal !important;
     overflow: hidden;
     text-overflow: ellipsis;
   }
